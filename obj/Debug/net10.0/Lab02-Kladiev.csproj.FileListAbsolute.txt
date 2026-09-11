@@ -12,3 +12,4 @@ C:\Users\Student_12\Documents\Lab02-Kladiev\obj\Debug\net10.0\refint\Lab02-Kladi
 C:\Users\Student_12\Documents\Lab02-Kladiev\obj\Debug\net10.0\Lab02-Kladiev.pdb
 C:\Users\Student_12\Documents\Lab02-Kladiev\obj\Debug\net10.0\Lab02-Kladiev.genruntimeconfig.cache
 C:\Users\Student_12\Documents\Lab02-Kladiev\obj\Debug\net10.0\ref\Lab02-Kladiev.dll
+C:\Users\Student_12\Documents\Lab02-Kladiev\obj\Debug\net10.0\Lab02-Kladiev.sourcelink.json
