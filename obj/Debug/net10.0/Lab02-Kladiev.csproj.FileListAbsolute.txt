@@ -1,0 +1,14 @@
+C:\Users\Student_12\Documents\Lab02-Kladiev\bin\Debug\net10.0\Lab02-Kladiev.exe
+C:\Users\Student_12\Documents\Lab02-Kladiev\bin\Debug\net10.0\Lab02-Kladiev.deps.json
+C:\Users\Student_12\Documents\Lab02-Kladiev\bin\Debug\net10.0\Lab02-Kladiev.runtimeconfig.json
+C:\Users\Student_12\Documents\Lab02-Kladiev\bin\Debug\net10.0\Lab02-Kladiev.dll
+C:\Users\Student_12\Documents\Lab02-Kladiev\bin\Debug\net10.0\Lab02-Kladiev.pdb
+C:\Users\Student_12\Documents\Lab02-Kladiev\obj\Debug\net10.0\Lab02-Kladiev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_12\Documents\Lab02-Kladiev\obj\Debug\net10.0\Lab02-Kladiev.AssemblyInfoInputs.cache
+C:\Users\Student_12\Documents\Lab02-Kladiev\obj\Debug\net10.0\Lab02-Kladiev.AssemblyInfo.cs
+C:\Users\Student_12\Documents\Lab02-Kladiev\obj\Debug\net10.0\Lab02-Kladiev.csproj.CoreCompileInputs.cache
+C:\Users\Student_12\Documents\Lab02-Kladiev\obj\Debug\net10.0\Lab02-Kladiev.dll
+C:\Users\Student_12\Documents\Lab02-Kladiev\obj\Debug\net10.0\refint\Lab02-Kladiev.dll
+C:\Users\Student_12\Documents\Lab02-Kladiev\obj\Debug\net10.0\Lab02-Kladiev.pdb
+C:\Users\Student_12\Documents\Lab02-Kladiev\obj\Debug\net10.0\Lab02-Kladiev.genruntimeconfig.cache
+C:\Users\Student_12\Documents\Lab02-Kladiev\obj\Debug\net10.0\ref\Lab02-Kladiev.dll
